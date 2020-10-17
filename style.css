@@ -1,0 +1,147 @@
+.fi
+{
+	background:#000;
+	color:#FFF;
+	word-spacing:8px;
+}
+.se
+{
+	background:#00F;
+	color:#FFF;
+	word-spacing:8px;
+}
+.dd
+{
+	text-indent:500px;
+	float:center;
+}
+.ss
+{
+	color:#F00;
+	font-weight:bold
+}
+.ssss
+{
+	background:#000;
+}
+span.ab
+{
+	text-indent:500px;
+	direction:rtl;
+}
+span.ba
+{
+	text-indent:500px;
+	direction:ltr;
+}
+div.ll
+{
+	background:#000;
+	color:#FFF;
+	word-spacing:10px;
+}
+img.llll
+{
+	background:#F00;
+	
+}
+.jjh
+{
+	float:left
+}
+.ssssss
+{
+	color:#F00;
+	font-weight:bold;
+	font-size:20px;
+}
+.divv
+{
+	float:left;
+	width:300px;
+	border-width:1px;
+	border-style:solid; 
+	border-color:#000;
+}
+.ww
+{
+	float:right;
+}
+.hhh
+{
+	color:#676767
+}
+.tt
+{
+	width:300px;
+	height:10px;
+	background:#676767;
+}
+.df
+{
+	float:center;
+	text-indent:800px;
+}
+.dfdf
+{
+	background:#CCCCCC;
+	float:right;
+	color:#000;
+	font-size:30px;
+	width:300px
+}
+.hit
+    {
+     background:#DDD;
+	 color:#000;
+     min-height:50px;
+     max-height:200px;
+     overflow:scroll;
+     float:left;
+    }
+	.uu
+	{
+		direction:rtl;
+	}
+	.spf
+	{
+		color:#000;
+		font-weight:bold;
+	}
+	.ce
+	{
+		float:center
+	}
+	.name
+	{
+		font-size:27;
+		font-weight:bold
+	}
+	.fai
+	{
+		float:center
+	}
+	.divvv
+	{
+		background:#000;
+		color:#FFF;
+		text-indent:250px
+		width:700px
+	}
+	.wwii
+	{
+		float:right;
+		font-size:20px;
+		font-weight:bold
+	}
+	.hhhhh
+	{
+		font-size:20px;
+		font-weight:bold
+	}
+	.dvo
+	{
+		background:#000;
+		color:#FFF;
+		word-spacing:10px
+	}
